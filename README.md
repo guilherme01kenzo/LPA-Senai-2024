@@ -8,3 +8,5 @@
 - ## cronograma
 - [x] aula 04 introdução ao bithub (07/02/2024)
   - criação do perfil no github
+
+PALMEIRASÉ UM BANDO DE PALHAÇO
