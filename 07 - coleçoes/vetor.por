@@ -22,7 +22,8 @@ programa
 		escreva("\nVetor na ordem inversa")
 		para( inteiro p = 9; p >- 0; p++)
 		{
-			escreva(vetor[p], " " )
+			escreva(vetor[p], " " \n )
+			util.aguardeintervalo(400)
 		}
 	}
 }
@@ -31,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 632; 
+ * @POSICAO-CURSOR = 665; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
